@@ -13,7 +13,7 @@ A Chrome/Brave extension that allows you to add bookmarks directly to your Obsid
 - [License](#license)
 
 ## Introduction
-very much a WIP. I have only just started, but hope this will become really usable and reliable. i'm constantly sending myself bookmarks to my Google account and it's very disorganized. i hope this projects helps correct that and allows me to learn more about Obsidian in the process.
+very much a WIP. I have only just started, but hope this will become really usable and reliable. i'm constantly sending myself bookmarks to my Google account and it's very disorganized. i hope this project helps correct that and allows me to learn more about Obsidian in the process.
 Obsidian Bookmark Adder is a Chrome/Brave extension that lets you quickly add bookmarks to your Obsidian vault. The extension communicates with a custom Obsidian plugin that creates or updates notes with the bookmark details.
 
 ## Features
